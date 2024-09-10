@@ -1309,9 +1309,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-09-10 02:13:44 +0000",
       "minecraft:deep_ocean": "2024-09-07 20:58:04 +0000",
       "minecraft:beach": "2024-09-10 01:55:37 +0000",
       "minecraft:mangrove_swamp": "2024-09-07 20:59:37 +0000",
+      "minecraft:river": "2024-09-10 02:19:39 +0000",
+      "minecraft:swamp": "2024-09-10 02:16:01 +0000",
       "minecraft:cold_ocean": "2024-09-10 01:55:33 +0000",
       "minecraft:lush_caves": "2024-09-07 20:58:38 +0000",
       "minecraft:desert": "2024-09-07 21:30:39 +0000",
@@ -3988,6 +3991,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_hut": "2024-09-10 02:16:10 +0000",
       "illager_camp": "2024-09-08 17:32:58 +0000"
     },
     "done": false
@@ -4214,6 +4218,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2024-09-10 02:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-09-10 02:07:42 +0000"
@@ -4223,6 +4233,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-09-10 02:07:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-09-10 02:17:47 +0000"
     },
     "done": true
   },
@@ -4238,6 +4254,36 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-09-10 02:18:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2024-09-10 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-09-10 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2024-09-10 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-09-10 02:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-09-10 02:07:42 +0000"
@@ -4247,6 +4293,18 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-09-10 02:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-09-10 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-09-10 02:17:47 +0000"
     },
     "done": true
   },
