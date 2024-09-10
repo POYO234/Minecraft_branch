@@ -2267,6 +2267,7 @@
     "criteria": {
       "minecraft:pillager": "2024-09-09 00:30:36 +0000",
       "minecraft:skeleton": "2024-09-09 00:25:12 +0000",
+      "minecraft:spider": "2024-09-10 01:59:45 +0000",
       "minecraft:creeper": "2024-09-10 01:52:08 +0000",
       "minecraft:witch": "2024-09-07 21:20:23 +0000",
       "minecraft:zombie": "2024-09-10 01:51:27 +0000"
@@ -4163,9 +4164,51 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-10 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-10 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-10 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/ant/ant_farm_from_coarse_dirt": {
+    "criteria": {
+      "has_raw_item": "2024-09-10 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
     },
     "done": true
   },
@@ -4181,6 +4224,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-10 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/decorations/display_lantern": {
     "criteria": {
       "has_iron_ingot": "2024-09-10 01:51:37 +0000"
@@ -4193,9 +4248,39 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_void_bow": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/tools/fishing_net": {
+    "criteria": {
+      "string": "2024-09-10 01:59:45 +0000"
     },
     "done": true
   },
@@ -4211,9 +4296,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-09-10 01:58:08 +0000"
     },
     "done": true
   },
@@ -4241,9 +4344,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-10 02:00:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
     },
     "done": true
   },
@@ -4253,9 +4374,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-10 02:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-09-10 01:59:45 +0000"
     },
     "done": true
   },

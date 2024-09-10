@@ -1095,3 +1095,51 @@ BCLib - Nether BiomeSource (71a25f17)
 [01:56:18] [Server thread/INFO]: Piochiken was slain by Cyclops
 [01:56:19] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
 [01:56:20] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[01:57:03] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[01:57:10] [Server thread/INFO]: Saving config ItemConfig from wilderwild
+[01:58:35] [Server thread/INFO]: Piochiken lost connection: Disconnected
+[01:58:35] [Server thread/INFO]: Piochiken left the game
+[01:58:38] [Server thread/INFO]: Piochiken[/100.101.222.10:63551] logged in with entity id 23120 at (2649.699999988079, 99.0, -625.3000000119209)
+[01:58:38] [Server thread/INFO]: Loading config from file...
+[01:58:38] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:58:38] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c61e6440-297b-33db-9ce8-1224c93a6a25'.
+[01:58:38] [Server thread/INFO]: Piochiken joined the game
+[01:58:38] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c61e6440-297b-33db-9ce8-1224c93a6a25'.
+[01:58:39] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[01:58:39] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:58:39] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:58:39] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:58:39] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:58:39] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:58:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/wazaa/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:01:38] [Server thread/INFO]: Piochiken fell from a high place
+[02:01:40] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:01:43] [Server thread/INFO]: [Piochiken: Set own game mode to Spectator Mode]
+[02:02:57] [Server thread/WARN]: Piochiken moved too quickly! -6.4877845250935025,7.875000312924384,1.179478897256672
+[02:02:58] [Server thread/WARN]: Piochiken moved too quickly! -8.792371381548492,4.80219540328147,-0.6944466665993332
+[02:03:03] [Server thread/WARN]: Piochiken moved too quickly! 7.492424218973156,6.750000268220315,-2.3126592109802004
+[02:03:29] [Server thread/INFO]: [Piochiken: Set the weather to clear]
+[02:03:59] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[02:05:28] [Worker-Main-1/WARN]: Empty height range: [0 absolute--16 absolute]
+[02:05:43] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[02:05:45] [Server thread/INFO]: S4mmn was slain by Orc
+[02:05:47] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of S4mmn accepted server config.
+[02:05:51] [Server thread/WARN]: Piochiken moved too quickly! 2.6161093255636843,6.7500002682209015,6.932720491836335
+[02:06:00] [Server thread/INFO]: [Piochiken: Set own game mode to Creative Mode]
+[02:06:10] [Server thread/INFO]: [Piochiken: Set own game mode to Survival Mode]
+[02:06:13] [Server thread/INFO]: Piochiken was slain by Fire Dragon
+[02:06:15] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:06:17] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[02:06:35] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[02:06:36] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
+[02:06:37] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:06:39] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
