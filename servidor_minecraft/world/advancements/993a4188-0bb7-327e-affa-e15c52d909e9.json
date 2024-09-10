@@ -2267,7 +2267,9 @@
     "criteria": {
       "minecraft:pillager": "2024-09-09 00:30:36 +0000",
       "minecraft:skeleton": "2024-09-09 00:25:12 +0000",
-      "minecraft:witch": "2024-09-07 21:20:23 +0000"
+      "minecraft:creeper": "2024-09-10 01:52:08 +0000",
+      "minecraft:witch": "2024-09-07 21:20:23 +0000",
+      "minecraft:zombie": "2024-09-10 01:51:27 +0000"
     },
     "done": false
   },
@@ -4095,45 +4097,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-09-09 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "wilderwild:recipes/transportation/cypress_boat": {
-    "criteria": {
-      "in_water": "2024-09-09 02:05:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-09-09 02:09:35 +0000"
-    },
-    "done": true
-  },
   "wilderwild:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-09 02:05:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-09-09 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-09-09 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "wilderwild:recipes/transportation/baobab_boat": {
-    "criteria": {
-      "in_water": "2024-09-09 02:05:38 +0000"
     },
     "done": true
   },
@@ -4149,15 +4115,147 @@
     },
     "done": true
   },
+  "wilderwild:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-09-09 02:05:38 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-09-09 02:05:38 +0000"
+    },
+    "done": true
+  },
   "wilderwild:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-09-09 02:05:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-09-09 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-09-09 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-09-09 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-09-09 02:09:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
       "tame_rat": "2024-09-09 02:09:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/decorations/display_lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-09-10 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-09-10 01:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-09-10 01:51:44 +0000"
     },
     "done": true
   },

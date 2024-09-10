@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "c61e6440-297b-33db-9ce8-1224c93a6a25",
+    "name": "Piochiken",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
