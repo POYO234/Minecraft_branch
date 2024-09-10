@@ -1143,3 +1143,79 @@ BCLib - Nether BiomeSource (71a25f17)
 [02:06:36] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
 [02:06:37] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
 [02:06:39] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[02:07:19] [Server thread/INFO]: Piochiken was incinerated by Fire Dragon
+[02:07:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[02:07:28] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
+[02:07:30] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:07:33] [Server thread/INFO]: S4mmn was turned into KFC by Fire Dragon
+[02:07:33] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
+[02:07:34] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of S4mmn accepted server config.
+[02:07:35] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
+[02:07:59] [Server thread/INFO]: Piochiken was incinerated by Fire Dragon
+[02:08:01] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02:08:07] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
+[02:08:10] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:08:19] [Server thread/INFO]: Piochiken was incinerated by Fire Dragon
+[02:08:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:08:25] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
+[02:08:27] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:08:29] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]
+[02:09:10] [Server thread/INFO]: Piochiken was burnt to a crisp whilst fighting Fire Dragon
+[02:09:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:09:16] [Server thread/INFO]: S4mmn was incinerated by Fire Dragon
+[02:09:17] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of S4mmn accepted server config.
+[02:09:31] [Server thread/INFO]: S4mmn was turned into KFC by Fire Dragon
+[02:09:33] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of S4mmn accepted server config.
+[02:09:44] [Server thread/INFO]: Piochiken was turned into KFC by Fire Dragon
+[02:09:46] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:10:39] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[02:11:12] [Server thread/INFO]: S4mmn was turned into KFC by Fire Dragon
+[02:11:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of S4mmn accepted server config.
+[02:11:17] [Server thread/INFO]: Piochiken was incinerated by Fire Dragon
+[02:11:19] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:11:19] [Server thread/INFO]: S4mmn was turned into KFC by Fire Dragon
+[02:11:21] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of S4mmn accepted server config.
+[02:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[02:12:16] [Server thread/INFO]: Piochiken was slain by Desert Rhino
+[02:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48238, l='ServerLevel[world]', x=-1180.51, y=77.07, z=517.31, removed=DISCARDED]
+[02:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48245, l='ServerLevel[world]', x=-1204.70, y=73.50, z=462.70, removed=DISCARDED]
+[02:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48246, l='ServerLevel[world]', x=-1200.06, y=74.67, z=462.77, removed=DISCARDED]
+[02:12:17] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48293, l='ServerLevel[world]', x=-1164.46, y=77.08, z=519.46, removed=DISCARDED]
+[02:12:58] [Server thread/INFO]: Piochiken was slain by Desert Rhino
+[02:12:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48238, l='ServerLevel[world]', x=-1180.51, y=77.07, z=517.31, removed=DISCARDED]
+[02:12:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48245, l='ServerLevel[world]', x=-1204.70, y=73.50, z=462.70, removed=DISCARDED]
+[02:12:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48246, l='ServerLevel[world]', x=-1200.06, y=74.67, z=462.77, removed=DISCARDED]
+[02:12:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48293, l='ServerLevel[world]', x=-1164.46, y=77.08, z=519.46, removed=DISCARDED]
+[02:12:59] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Piochiken accepted server config.
+[02:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[02:13:27] [Server thread/INFO]: Locating element iceandfire:mausoleum took 8808 ms
+[02:13:27] [Server thread/WARN]: S4mmn moved too quickly! 1.861956102216027,1.495200877005928,9.730161460538682
+[02:13:27] [Server thread/WARN]: Piochiken moved too quickly! -4.400385926700892,0.0,-9.018851413035009
+[02:13:30] [Server thread/INFO]: [Piochiken: Teleported Piochiken to -6927.500000, 72.000000, 6928.500000]
+[02:13:33] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02:13:40] [Server thread/WARN]: S4mmn moved too quickly! 9.220659389970479,1.1661092609382138,4.15894910897137
+[02:13:40] [Server thread/INFO]: [Piochiken: Set own game mode to Spectator Mode]
+[02:13:44] [Server thread/WARN]: S4mmn moved too quickly! 7.7685157719688505,0.25086736114158725,6.50118118327174
+[02:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20175ms or 403 ticks behind
+[02:13:53] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02:14:16] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[02:14:41] [Server thread/INFO]: Locating element iceandfire:graveyard took 371 ms
+[02:14:44] [Server thread/INFO]: [Piochiken: Teleported Piochiken to -6911.500000, 72.895285, 6384.500000]
+[02:14:48] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02:14:49] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02:14:55] [Server thread/WARN]: S4mmn moved too quickly! 6.224053201112383,2.5228045359623934,7.559525130008332
+[02:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11607ms or 232 ticks behind
+[02:15:47] [Server thread/INFO]: Locating element #minecraft:cats_spawn_as_black (minecraft:swamp_hut) took 4534 ms
+[02:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4532ms or 90 ticks behind
+[02:15:47] [Server thread/WARN]: S4mmn moved too quickly! -2.631929811826467,0.0,9.744420322892921
+[02:15:47] [Server thread/WARN]: Piochiken moved too quickly! -0.6843882359062263,6.628512602928154,-7.777406005213379
+[02:15:47] [Server thread/INFO]: Locating element #minecraft:cats_spawn_as_black (minecraft:swamp_hut) took 153 ms
+[02:15:49] [Server thread/INFO]: [Piochiken: Teleported Piochiken to -4383.500000, 127.044788, 224.500000]
+[02:16:01] [Server thread/WARN]: S4mmn moved too quickly! -9.897991036180429,2.0,0.23733799546060652
+[02:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[02:16:24] [Server thread/INFO]: [Piochiken: Set own game mode to Survival Mode]
+[02:17:18] [Server thread/INFO]: [Piochiken: Teleported Piochiken to S4mmn]

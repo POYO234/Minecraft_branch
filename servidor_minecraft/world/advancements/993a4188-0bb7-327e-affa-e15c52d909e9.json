@@ -4230,6 +4230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-09-10 02:09:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2024-09-10 01:59:45 +0000"
